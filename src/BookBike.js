@@ -77,11 +77,11 @@ class BookBike extends Component {
         super()
         this.state = {
             productName: '',
-            id: 0,
+            id: 1,
             duration: 1,
             currentProduct: '',
-            data: data,
-            price: 0
+            info: data,
+            price: 7
         }
 
         this.handleChange = this.handleChange.bind(this)
@@ -115,6 +115,8 @@ class BookBike extends Component {
         const { name, value } = event.target
         let bike = document.querySelector('.bike');
 
+        console.dir(data);
+
 
         this.setState({
             [name]: value
@@ -129,6 +131,7 @@ class BookBike extends Component {
         const durationList = document.querySelector('.duration');
         let option1;
         let option2;
+
 
         data.forEach(function(el, index) {
             option1 = document.createElement('option');
@@ -165,7 +168,7 @@ class BookBike extends Component {
                 <p>Duration: <span>{this.state.duration} hours</span></p>
               </div>
               <div>
-                <p>Price: <span className="priceField">{this.state.price}</span></p>
+                <p>Price: $<span className="priceField">{this.state.price}</span></p>
               </div>
               <input type="submit" value="Submit"></input>
             </form>

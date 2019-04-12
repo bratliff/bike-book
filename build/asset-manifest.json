@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.4396dc7a.chunk.css",
-  "main.js": "/static/js/main.2e444ae8.chunk.js",
-  "main.js.map": "/static/js/main.2e444ae8.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.53622f50.chunk.js": "/static/js/2.53622f50.chunk.js",
-  "static/js/2.53622f50.chunk.js.map": "/static/js/2.53622f50.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.76aef4d0d8a84b80b9b67c86f68c1e0b.js": "/precache-manifest.76aef4d0d8a84b80b9b67c86f68c1e0b.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.4396dc7a.chunk.css.map": "/static/css/main.4396dc7a.chunk.css.map"
+  "main.css": "/bike/static/css/main.4396dc7a.chunk.css",
+  "main.js": "/bike/static/js/main.6bf90018.chunk.js",
+  "main.js.map": "/bike/static/js/main.6bf90018.chunk.js.map",
+  "runtime~main.js": "/bike/static/js/runtime~main.790d1dad.js",
+  "runtime~main.js.map": "/bike/static/js/runtime~main.790d1dad.js.map",
+  "static/js/2.53622f50.chunk.js": "/bike/static/js/2.53622f50.chunk.js",
+  "static/js/2.53622f50.chunk.js.map": "/bike/static/js/2.53622f50.chunk.js.map",
+  "index.html": "/bike/index.html",
+  "precache-manifest.126500ed3be1bc116737c3e22aecde2b.js": "/bike/precache-manifest.126500ed3be1bc116737c3e22aecde2b.js",
+  "service-worker.js": "/bike/service-worker.js",
+  "static/css/main.4396dc7a.chunk.css.map": "/bike/static/css/main.4396dc7a.chunk.css.map"
 }
